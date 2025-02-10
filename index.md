@@ -45,7 +45,7 @@ Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span 
 
 Optimal Parallelization of Boosting\
 Co-Authors: Arthur da Cunha, Kasper Green Larsen\
-Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 - Oral 0.39%</span><span style="color:#267CB9; background-color:#267CB9">l</span>
+Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 - Oral top 0.39% of submissions</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 The Many Faces of Optimal Weak-to-Strong Learning\
 Co-Authors: Kasper Green Larsen, Markus Engelund Mathiasen\
@@ -63,7 +63,7 @@ Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span 
 
 AdaBoost is not an Optimal Weak to Strong Learner\
 Co-Authors: Kasper Green Larsen, Martin Ritzert\
-Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ICML 2023 - Oral 2.37% </span><span style="color:#267CB9; background-color:#267CB9">l</span>
+Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ICML 2023 - Oral top 2.37% of submissions </span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 Barriers for Faster Dimensionality Reduction\
 Co-Authors: Ora Nova Fandina, Kasper Green Larsen\
