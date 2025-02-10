@@ -1,10 +1,21 @@
+# description: |
+#   Mikael Møller Høgsgaard <br />
+#   PhD Student Aarhus University <br />
+#   hogsgaard@cs.au.dk
+# # title:  <span style="color:black; background-color:white">Mikael M. Høgsgaard</span>
+# logo: Untitled.png
+# title: <span style="font-size:21px;"><span style="color:black; background-color:white">Mikael Møller Høgsgaard</span></span>
+# show_downloads: false
+# github: false
+# theme: jekyll-theme-minimal
+
 description: |
   Mikael Møller Høgsgaard <br />
   PhD Student Aarhus University <br />
   hogsgaard@cs.au.dk
 # title:  <span style="color:black; background-color:white">Mikael M. Høgsgaard</span>
+title: Mikael Møller Høgsgaard
 logo: Untitled.png
-title: <span style="font-size:21px;"><span style="color:black; background-color:white">Mikael Møller Høgsgaard</span></span>
 show_downloads: false
 github: false
 remote_theme: aterenin/minima-reboot
