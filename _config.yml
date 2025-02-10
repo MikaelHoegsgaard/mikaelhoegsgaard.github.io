@@ -9,12 +9,10 @@
 # github: false
 # theme: jekyll-theme-minimal
 
-description: |
-  PhD Student Aarhus University 
+description: 
+  PhD Student Aarhus University \\
   hogsgaard@cs.au.dk
-# title:  <span style="color:black; background-color:white">Mikael M. Høgsgaard</span>
 title: Mikael Møller Høgsgaard
-logo: Untitled.png
 show_downloads: false
 github: false
 remote_theme: aterenin/minima-reboot

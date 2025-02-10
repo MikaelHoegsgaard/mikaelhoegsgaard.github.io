@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Profile Picture](Untitled.png)
+![Profile Picture](Untitled.png){: width="200px" height="200px"}
 
 # About
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
