@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by Kasper Green Larsen, whom I am also grateful to have as my advisor.
+I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
 My primary research interest is learning theory.
 
@@ -18,7 +17,7 @@ Conference: ALT 2025
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-Conference: <span style="color:blue; background-color:yellow">ALT 2025</span>
+Conference: <span style="color:white; background-color:deepskyblue2">ALT 2025</span>
 
 ### 2024
 
