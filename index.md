@@ -11,7 +11,8 @@ My primary research interest is learning theory.
 
 ## Publications
 
-2025
+#2025
+
 Understanding Aggregations of Proper Learners in Multiclass Classification
 Co-Authors: Julian Asilis, Grigoris Velegkas
 Conference: ALT 2025
