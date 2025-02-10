@@ -41,8 +41,7 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
 My primary research interest is learning theory. Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page. 
-![Profile Picture](Untitled.png){: width="200px" height="200px"}
-
+<img src="Untitled.png" align="left" width="200px"/>
 
 
 
