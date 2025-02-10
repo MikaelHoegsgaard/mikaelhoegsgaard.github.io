@@ -13,8 +13,8 @@ layout: default
 </p></span>
 </div>
 <span style="color:white; background-color:white">l</span> -->
-<p style="text-align:right; font-style:italic;">This is a caption for the image.</p>
 <img src="Untitled.png" align="right" width="200px"/>
+<p style="text-align:right; font-style:italic;">This is a caption for the image.</p>
 # About
 
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor. Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University. My primary research interest is learning theory.
