@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 
@@ -26,47 +26,47 @@ My primary research interest is learning theory.
 
 # 2025
 
-Understanding Aggregations of Proper Learners in Multiclass Classification
-Co-Authors: Julian Asilis, Grigoris Velegkas
+Understanding Aggregations of Proper Learners in Multiclass Classification\
+Co-Authors: Julian Asilis, Grigoris Velegkas\
 Conference: ALT 2025
 
-Efficient Optimal PAC Learning
-Co-Authors: 
+Efficient Optimal PAC Learning\
+Co-Authors: \
 Conference: ALT 2025
 
 # 2024
 
-Majority-of-Three: The Simplest Optimal Learner?
-Co-Authors: Ishaq Aden-Ali, Kasper Green Larsen, Nikita Zhivotovskiy
+Majority-of-Three: The Simplest Optimal Learner?\
+Co-Authors: Ishaq Aden-Ali, Kasper Green Larsen, Nikita Zhivotovskiy\
 Conference: COLT 2024
 
-Optimal Parallelization of Boosting
-Co-Authors: Arthur da Cunha, Kasper Green Larsen
+Optimal Parallelization of Boosting\
+Co-Authors: Arthur da Cunha, Kasper Green Larsen\
 Conference: NeurIPS 2024
 
-The Many Faces of Optimal Weak-to-Strong Learning
-Co-Authors: Kasper Green Larsen, Markus Engelund Mathiasen
+The Many Faces of Optimal Weak-to-Strong Learning\
+Co-Authors: Kasper Green Larsen, Markus Engelund Mathiasen\
 Conference: NeurIPS 2024
 
-Sparse Dimensionality Reduction Revisited
-Co-Authors: Lior Kamma, Kasper Green Larsen, Jelani Nelson, Chris Schwiegelshohn
+Sparse Dimensionality Reduction Revisited\
+Co-Authors: Lior Kamma, Kasper Green Larsen, Jelani Nelson, Chris Schwiegelshohn\
 Conference: ICML 2024
 
 
 # 2023
-The Fast Johnson-Lindenstrauss Transform Is Even Faster
-Co-Authors: Ora Nova Fandina, Kasper Green Larsen
+The Fast Johnson-Lindenstrauss Transform Is Even Faster\
+Co-Authors: Ora Nova Fandina, Kasper Green Larsen\
 Conference: ICML 2023
 
-AdaBoost is not an Optimal Weak to Strong Learner
-Co-Authors: Kasper Green Larsen, Martin Ritzert
+AdaBoost is not an Optimal Weak to Strong Learner\
+Co-Authors: Kasper Green Larsen, Martin Ritzert\
 Conference: ICML 2023
 
-Barriers for Faster Dimensionality Reduction
-Co-Authors: Ora Nova Fandina, Kasper Green Larsen
+Barriers for Faster Dimensionality Reduction\
+Co-Authors: Ora Nova Fandina, Kasper Green Larsen\
 Conference: STACS 2023
 
-Optimally Interpolating between Ex-Ante Fairness and Welfare
+Optimally Interpolating between Ex-Ante Fairness and Welfare\
 Co-Authors: Mikael Høgsgaard, Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn
 
 
