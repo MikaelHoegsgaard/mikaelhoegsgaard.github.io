@@ -8,7 +8,7 @@ My primary research interest is learning theory.
 
 
 # Publications
-Work by my incredible Co-Authors and me. Thanks to my co-authors for all the hard work and learning me so much.
+Work by my Brilliant co-authors and me. I am thankful for their insights and collaboration, which have helped me grow.
 
 ### 2025
 
