@@ -1,21 +1,6 @@
 ---
 layout: default
 ---
-<!-- <br/>
-<div class="warning" style='padding:0.05em; background-color:#267CB9; color:white'>
-<span>
-<p style='margin-top:0.3em; text-align:center'>
-<b></b></p>
-<p style='margin-left:1em;'>
-
-</p>
-<p style='margin-bottom:1em; margin-right:0.3em; text-align:right; font-family:Georgia'> <b></b> <i></i>
-</p></span>
-</div>
-<span style="color:white; background-color:white">l</span> -->
-<img src="Untitled.png" align="right" width="200px"/>
-<p align="center"><i>Figure 1: A visual representation of my research interests and collaborations.</i></p>
-<p align="center"><i>Figure 1: A visual representation of my research interests and collaborations.</i></p>
 <img src="Untitled.png" align="right" width="200px"/>
 # About
 
