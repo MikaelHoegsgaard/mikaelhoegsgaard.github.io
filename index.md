@@ -3,7 +3,19 @@ layout: default
 ---
 
 
+# Welcome to My Academic Page
 
+I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor. Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University. My primary research interest is learning theory. Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) for helping me set up this page.
+
+![Profile Picture](Untitled.png){: width="200px" height="200px"}
+
+<div class="warning" style='padding:0.05em; background-color:#267CB9; color:white'>
+    <span>
+        <p style='margin-top:0.3em; text-align:center'><b>Notice</b></p>
+        <p style='margin-left:1em;'>My PhD study is set to end at the end of August, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!</p>
+        <p style='margin-bottom:1em; margin-right:0.3em; text-align:right; font-family:Georgia'><b>Thank you!</b></p>
+    </span>
+</div>
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         # About
@@ -15,6 +27,8 @@ layout: default
         <img src="Untitled.png" alt="Profile Picture" width="200px" height="200px">
     </div>
 </div>
+
+
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
 My primary research interest is learning theory. Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page. 
