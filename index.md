@@ -21,19 +21,9 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
 <\br>
 <\br>
 <span style="color:#2d75d7; background-color:white"><b>My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!</b></span>
+
 ####My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!
-<!-- 
-<div class="warning" style='padding:0.005em; background-color:#267CB9; color:white'>
-<span>
-<p style='margin-top:0.3em; text-align:center'>
-<b></b></p>
-<p style='margin-left:1em;'>
-My PhD study is set to end at the end of August, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!
-</p>
-<p style='margin-bottom:1em; margin-right:0.3em; text-align:right; font-family:Georgia'> <b></b> <i></i>
-</p></span>
-</div>
-<span style="color:white; background-color:white">l</span> -->
+
 
 # Publications
 Work by my Brilliant co-authors and me. I am thankful for their insights and collaboration, which have helped me grow.
