@@ -3,8 +3,8 @@ description: |
   PhD Student Aarhus University <br />
   hogsgaard@cs.au.dk
 # title:  <span style="color:black; background-color:white">Mikael M. Høgsgaard</span>
-title: <span style="font-size:21px;"><span style="color:black; background-color:white">Mikael Møller Høgsgaard</span></span>
 logo: Untitled.png
+title: <span style="font-size:21px;"><span style="color:black; background-color:white">Mikael Møller Høgsgaard</span></span>
 show_downloads: false
 github: false
 theme: jekyll-theme-minimal
