@@ -8,6 +8,7 @@ My primary research interest is learning theory.
 
 
 # Publications
+Work by my incredible Co-Authors and me.
 
 ### 2025
 
@@ -17,25 +18,7 @@ Conference: ALT 2025
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-You can choose from a wide range of colors in HTML. Some common color names include:
-
-- red
-- blue
-- green
-- yellow
-- orange
-- purple
-- pink
-- brown
-- black
-- white
-- gray
-
-Additionally, you can use hexadecimal color codes (e.g., #FF5733), RGB values (e.g., rgb(255, 87, 51)), and HSL values (e.g., hsl(9, 100%, 60%)).
-
-Here is the rewritten markdown content:
-
-Conference: <span style="color:white; background-color:#267CB9"> ALT 2025 </span>
+Conference: <pre><span style="color:white; background-color:#267CB9"> ALT 2025 </span><pre>
 
 
 ### 2024
