@@ -1,9 +1,6 @@
-description: My personal website
+description: Mikael Møller Høgsgaard \ PhD Student \ Aarhus University \ hogsgaard@cs.au.dk 
+Aarhus University 
 logo: Untitled.png
-title: 
-  text: Mikael Møller Høgsgaard
-  color: black
-  position: below
 show_downloads: false
 github: false
 theme: jekyll-theme-minimal
