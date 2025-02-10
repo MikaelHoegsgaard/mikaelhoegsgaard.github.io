@@ -7,4 +7,4 @@ logo: Untitled.png
 title: <span style="font-size:21px;"><span style="color:black; background-color:white">Mikael Møller Høgsgaard</span></span>
 show_downloads: false
 github: false
-theme: jekyll-theme-minimal
+remote_theme: aterenin/minima-reboot
