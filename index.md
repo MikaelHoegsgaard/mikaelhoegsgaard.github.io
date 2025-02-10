@@ -1,5 +1,3 @@
-You can choose from various layouts depending on your Jekyll theme. Common layouts include `default`, `post`, `page`, etc. Since you already have `layout: default`, you can keep it or change it based on your theme's available layouts.
-
 ---
 layout: page
 ---
