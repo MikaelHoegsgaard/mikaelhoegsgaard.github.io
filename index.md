@@ -52,10 +52,10 @@ Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span 
 
 Barriers for Faster Dimensionality Reduction\
 Co-Authors: Ora Nova Fandina, Kasper Green Larsen\
-Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">STACS 2023</span><span style="color:#267CB9; background-color:#267CB9">l</span
+Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">STACS 2023</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 Optimally Interpolating between Ex-Ante Fairness and Welfare\
-Co-Authors: Mikael Høgsgaard, Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn
+Co-Authors: Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn
 Pre-print: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 
