@@ -14,30 +14,41 @@ Work by my Brilliant co-authors and me. I am thankful for their insights and col
 
 Understanding Aggregations of Proper Learners in Multiclass Classification\
 Co-Authors: Julian Asilis, Grigoris Velegkas\
-Conference: ALT 2025
+Conference: <span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ALT 2025</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-Conference: <span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ALT 2025</span>
+Conference: <span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ALT 2025</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 
 
 ### 2024
 
+
+
+<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">NeurIPS 2024</span><span style="color:#267CB9; background-color:#267CB9">A</span>
+
+
+<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ICML 2023</span><span style="color:#267CB9; background-color:#267CB9">A</span>
+
+<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ICML 2023</span><span style="color:#267CB9; background-color:#267CB9">A</span>
+
+<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">STACS 2023</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 Majority-of-Three: The Simplest Optimal Learner?\
 Co-Authors: Ishaq Aden-Ali, Kasper Green Larsen, Nikita Zhivotovskiy\
-Conference: COLT 2024
+Conference: 
+<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">COLT 2024</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 
 Optimal Parallelization of Boosting\
 Co-Authors: Arthur da Cunha, Kasper Green Larsen\
-Conference: NeurIPS 2024
+Conference:<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">NeurIPS 2024</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 
 The Many Faces of Optimal Weak-to-Strong Learning\
 Co-Authors: Kasper Green Larsen, Markus Engelund Mathiasen\
-Conference: NeurIPS 2024
+Conference:<span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">NeurIPS 2024</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 
 Sparse Dimensionality Reduction Revisited\
 Co-Authors: Lior Kamma, Kasper Green Larsen, Jelani Nelson, Chris Schwiegelshohn\
-Conference: ICML 2024
+Conference: <span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ICML 2024</span><span style="color:#267CB9; background-color:#267CB9">A</span>
 
 
 ### 2023
