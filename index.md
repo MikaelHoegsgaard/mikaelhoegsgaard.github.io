@@ -22,7 +22,7 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
 <\br>
 <span style="color:#2d75d7; background-color:white"><b>My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!</b></span>
 
-####My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!
+#### My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!
 
 
 # Publications
