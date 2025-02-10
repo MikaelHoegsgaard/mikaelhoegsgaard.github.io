@@ -69,3 +69,4 @@ Co-Authors: Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn
 Pre-print: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 
+Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page. 
