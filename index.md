@@ -17,7 +17,27 @@ Conference: ALT 2025
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-Conference: <span style="color:white; background-color:deepskyblue2">ALT 2025</span>
+You can choose from a wide range of colors in HTML. Some common color names include:
+
+- red
+- blue
+- green
+- yellow
+- orange
+- purple
+- pink
+- brown
+- black
+- white
+- gray
+
+Additionally, you can use hexadecimal color codes (e.g., #FF5733), RGB values (e.g., rgb(255, 87, 51)), and HSL values (e.g., hsl(9, 100%, 60%)).
+
+Here is the rewritten markdown content:
+
+```markdown
+Conference: <span style="color:white; background-color:deepskyblue">ALT 2025</span>
+```
 
 ### 2024
 
