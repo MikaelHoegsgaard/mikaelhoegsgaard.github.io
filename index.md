@@ -6,7 +6,7 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
 My primary research interest is learning theory.
 
-<span style="color:white; background-color:#267CB9">My PhD study is set to end at the end of August, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be appreciated! </span>
+<span style="color:white; background-color:#267CB9"> My PhD study is set to end at the end of August, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be appreciated! </span>
 
 
 # Publications

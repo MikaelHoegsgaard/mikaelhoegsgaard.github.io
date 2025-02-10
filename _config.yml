@@ -1,6 +1,14 @@
-# description: My personal website
+description: My personal website
 logo: Untitled.png
-title: Mikael Møller Høgsgaard
+title: 
+  text: Mikael Møller Høgsgaard
+  color: black
+  position: below
 show_downloads: false
 github: false
 theme: jekyll-theme-minimal
+# logo: Untitled.png
+# title: Mikael Møller Høgsgaard
+# show_downloads: false
+# github: false
+# theme: jekyll-theme-minimal
