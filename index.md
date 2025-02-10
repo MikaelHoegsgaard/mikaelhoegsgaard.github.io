@@ -45,7 +45,7 @@ Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span 
 
 Optimal Parallelization of Boosting\
 Co-Authors: Arthur da Cunha, Kasper Green Larsen\
-Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 - Oral top 0.39% of submissions</span><span style="color:#267CB9; background-color:#267CB9">l</span>
+Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 - Oral </span><span style="color:#267CB9; background-color:#267CB9">l</span> top 0.39% of submissions
 
 The Many Faces of Optimal Weak-to-Strong Learning\
 Co-Authors: Kasper Green Larsen, Markus Engelund Mathiasen\
