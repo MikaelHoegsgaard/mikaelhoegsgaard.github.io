@@ -22,9 +22,9 @@ Before starting my PhD, I received a Bachelor's degree from the Mathematics Depa
 My primary research interest is learning theory.
 
 
-## Publications
+# Publications
 
-# 2025
+### 2025
 
 Understanding Aggregations of Proper Learners in Multiclass Classification\
 Co-Authors: Julian Asilis, Grigoris Velegkas\
@@ -34,7 +34,7 @@ Efficient Optimal PAC Learning\
 Co-Authors: \
 Conference: ALT 2025
 
-# 2024
+### 2024
 
 Majority-of-Three: The Simplest Optimal Learner?\
 Co-Authors: Ishaq Aden-Ali, Kasper Green Larsen, Nikita Zhivotovskiy\
@@ -53,7 +53,7 @@ Co-Authors: Lior Kamma, Kasper Green Larsen, Jelani Nelson, Chris Schwiegelshohn
 Conference: ICML 2024
 
 
-# 2023
+### 2023
 The Fast Johnson-Lindenstrauss Transform Is Even Faster\
 Co-Authors: Ora Nova Fandina, Kasper Green Larsen\
 Conference: ICML 2023
