@@ -13,6 +13,8 @@ layout: default
 </p></span>
 </div>
 <span style="color:white; background-color:white">l</span> -->
+<img src="Untitled.png" align="right" width="200px"/>
+<p align="center"><i>Figure 1: A visual representation of my research interests and collaborations.</i></p>
 <p align="center"><i>Figure 1: A visual representation of my research interests and collaborations.</i></p>
 <img src="Untitled.png" align="right" width="200px"/>
 # About
