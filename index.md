@@ -13,7 +13,7 @@ layout: default
 </p></span>
 </div>
 <span style="color:white; background-color:white">l</span> -->
-
+<p style="text-align:right; font-style:italic;">This is a caption for the image.</p>
 <img src="Untitled.png" align="right" width="200px"/>
 # About
 
