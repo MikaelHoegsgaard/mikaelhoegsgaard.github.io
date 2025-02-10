@@ -18,7 +18,7 @@ Conference: ALT 2025
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-Conference: <pre><span style="color:white; background-color:#267CB9"> &nbsp ALT 2025 </span><pre>
+Conference: <span style="color:#267CB9; background-color:#267CB9">A</span><span style="color:white; background-color:#267CB9">ALT 2025</span>
 
 
 ### 2024
