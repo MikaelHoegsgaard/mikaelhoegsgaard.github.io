@@ -1,13 +1,22 @@
 ---
 layout: default
 ---
-![Profile Picture](Untitled.png){: width="200px" height="200px"}
+
 
 # About
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
 My primary research interest is learning theory. Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page. 
-
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
+        Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
+        My primary research interest is learning theory. Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page.
+    </div>
+    <div style="flex: 0;">
+        ![Profile Picture](Untitled.png){: width="200px" height="200px"}
+    </div>
+</div>
 <div class="warning" style='padding:0.05em; background-color:#267CB9; color:white'>
 <span>
 <p style='margin-top:0.3em; text-align:center'>
