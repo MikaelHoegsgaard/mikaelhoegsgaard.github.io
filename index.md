@@ -50,7 +50,7 @@ Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span 
 
 Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 </span><span style="color:#267CB9; background-color:#267CB9">l</span> **Oral top 0.39% of submissions**
 
-Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 - Oral top 0.39% of submissions</span><span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:#267CB9; background-color:white">- Oral top 0.39% of submissions</span><span style="color:#267CB9; background-color:#267CB9">l</span>
+Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">NeurIPS 2024 - Oral top 0.39% of submissions</span><span style="color:#267CB9; background-color:#267CB9">l</span> <span style="color:#267CB9; background-color:white"><b> Oral top 0.39% of submissions<\b></span>
 
 The Many Faces of Optimal Weak-to-Strong Learning\
 Co-Authors: Kasper Green Larsen, Markus Engelund Mathiasen\
