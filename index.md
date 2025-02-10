@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-![Profile Picture](untitled.png)
+![Profile Picture](Untitled.png)
 
 # About
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor.
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
-My primary research interest is learning theory.
+My primary research interest is learning theory. Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page. 
 
 <div class="warning" style='padding:0.05em; background-color:#267CB9; color:white'>
 <span>
@@ -71,4 +71,3 @@ Co-Authors: Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn
 Pre-print: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 
-Thanks to [Julian Asilis](https://jasilis.com/) and [Arthur C. W. da Cunha](https://arthurwalraven.github.io/) helping me set up this page. 
