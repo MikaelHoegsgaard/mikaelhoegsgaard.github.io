@@ -8,7 +8,7 @@ My primary research interest is learning theory.
 
 
 # Publications
-Work by my incredible Co-Authors and me.
+Work by my incredible Co-Authors and me. Thanks to my co-authors for all the hard work and learning me so much.
 
 ### 2025
 
@@ -18,7 +18,7 @@ Conference: ALT 2025
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-Conference: <pre><span style="color:white; background-color:#267CB9"> ALT 2025 </span><pre>
+Conference: <pre><span style="color:white; background-color:#267CB9"> &nbsp ALT 2025 </span><pre>
 
 
 ### 2024
