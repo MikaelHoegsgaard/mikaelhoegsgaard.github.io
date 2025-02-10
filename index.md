@@ -14,7 +14,7 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
         My research primarily focuses on learning theory, with a particular interest in the theoretical foundations of machine learning. I am also interested in the applications of these theories to real-world problems.
     </div>
     <div style="flex: 0;">
-        <img src="Untitiled.png" alt="Research Image" width="200px" height="200px">
+        <img src="Untitled.png" alt="Research Image" width="200px" height="200px">
     </div>
 </div>
 
@@ -106,7 +106,7 @@ Co-Authors: Ora Nova Fandina, Kasper Green Larsen\
 Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">STACS 2023</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 Optimally Interpolating between Ex-Ante Fairness and Welfare\
-Co-Authors: Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn
+Co-Authors: Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn\
 Pre-print: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 
