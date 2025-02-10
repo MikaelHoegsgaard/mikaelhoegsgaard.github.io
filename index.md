@@ -8,14 +8,14 @@ My primary research interest is learning theory.
 
 <span style="color:white; background-color:#267CB9"> My PhD study is set to end at the end of August, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated! </span>
 
-<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<div class="warning" style='padding:0.1em; background-color:#267CB9; color:white'>
 <span>
-<p style='margin-top:1em; text-align:center'>
+<p style='margin-top:0.5em; text-align:center'>
 <b></b></p>
 <p style='margin-left:1em;'>
 My PhD study is set to end at the end of August, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!
 </p>
-<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b></b> <i></i>
+<p style='margin-bottom:1em; margin-right:0.5em; text-align:right; font-family:Georgia'> <b></b> <i></i>
 </p></span>
 </div>
 
