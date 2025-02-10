@@ -2,21 +2,6 @@
 layout: default
 ---
 
-
-
-```{r}
-library(kableExtra)
-options(knitr.table.format = "latex")
-```
-
-`r text_spec("Help", color = "red")`
-
-`r text_spec("Help Help", background = "#D05A6E", color = "white", bold = T)`
-
-`r text_spec("Hello", font_size = 20)`
-
-`r text_spec("World", angle = 180)`
-
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by Kasper Green Larsen, whom I am also grateful to have as my advisor.
 Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University.
 My primary research interest is learning theory.
@@ -32,7 +17,7 @@ Conference: ALT 2025
 
 Efficient Optimal PAC Learning\
 Co-Authors: \
-Conference: ALT 2025
+Conference: <span style="color:blue">ALT 2025</span>
 
 ### 2024
 
