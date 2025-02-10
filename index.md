@@ -35,9 +35,8 @@ Additionally, you can use hexadecimal color codes (e.g., #FF5733), RGB values (e
 
 Here is the rewritten markdown content:
 
-```markdown
-Conference: <span style="color:white; background-color:deepskyblue">ALT 2025</span>
-```
+Conference: <span style="color:white; background-color:#FF5733">ALT 2025</span>
+
 
 ### 2024
 
