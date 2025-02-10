@@ -18,7 +18,8 @@ layout: default
 # About
 
 I am a PhD student in the Foundations of Machine Learning Group at Aarhus University, led by [Kasper Green Larsen](https://cs.au.dk/~larsen/) whom I am also grateful to have as my advisor. Before starting my PhD, I received a Bachelor's degree from the Mathematics Department at Aarhus University and a Master's degree in Statistics from the Statistics Department at Aarhus University. My primary research interest is learning theory.
-<span style="color:#267CB9; background-color:white">My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!</span>
+<span style="color:2d75d7; background-color:white; text-decoration:underline">My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!</span>
+<span style="color:2d75d7; background-color:white">My PhD study is set to end at August 2025, and I am currently seeking either a PostDoc position or a full-time role. Any help or advice will be greatly appreciated!</span>
 
 <!-- <br/>
 <div class="warning" style='padding:0.005em; background-color:#267CB9; color:white'>
