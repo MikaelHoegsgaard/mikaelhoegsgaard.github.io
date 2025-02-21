@@ -14,6 +14,9 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
 Work by my Brilliant co-authors and me. I am thankful for their insights and collaboration, which have helped me grow.
 
 ### 2025
+On Agnostic PAC Learning in the Small Error Regime\
+Co-Authors: Julian Asilis, Grigoris Velegkas\
+Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 Understanding Aggregations of Proper Learners in Multiclass Classification\
 Co-Authors: Julian Asilis, Grigoris Velegkas\
