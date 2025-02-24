@@ -14,9 +14,14 @@ I am a PhD student in the Foundations of Machine Learning Group at Aarhus Univer
 Work by my Brilliant co-authors and me. I am thankful for their insights and collaboration, which have helped me grow.
 
 ### 2025
+
+[Improved Margin Generalization Bounds for Voting Classifiers](https://cs.au.dk/~larsen/papers/MarginBoundVoting.pdf)\
+Co-Authors: Kasper Green Larsen\
+Manuscript: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
+
 [On Agnostic PAC Learning in the Small Error Regime](https://arxiv.org/abs/2502.09496)\
 Co-Authors: Julian Asilis, Grigoris Velegkas\
-Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
+Manuscript: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 [Understanding Aggregations of Proper Learners in Multiclass Classification](https://arxiv.org/abs/2410.22749)\
 Co-Authors: Julian Asilis, Grigoris Velegkas\
@@ -62,6 +67,6 @@ Conference: <span style="color:#267CB9; background-color:#267CB9">l</span><span 
 
 [Optimally Interpolating between Ex-Ante Fairness and Welfare](https://arxiv.org/abs/2302.03071)\
 Co-Authors: Panagiotis Karras, Wenyu Ma, Nidhi Rathi, Chris Schwiegelshohn\
-Pre-print: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
+Manuscript: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
 
