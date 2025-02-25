@@ -15,7 +15,7 @@ Work by my Brilliant co-authors and me. I am thankful for their insights and col
 
 ### 2025
 
-[Improved Margin Generalization Bounds for Voting Classifiers](https://cs.au.dk/~larsen/papers/MarginBoundVoting.pdf)\
+[Improved Margin Generalization Bounds for Voting Classifiers](https://arxiv.org/abs/2502.16462)\
 Co-Authors: Kasper Green Larsen\
 Manuscript: <span style="color:#267CB9; background-color:#267CB9">l</span><span style="color:white; background-color:#267CB9">ARXIV</span><span style="color:#267CB9; background-color:#267CB9">l</span>
 
